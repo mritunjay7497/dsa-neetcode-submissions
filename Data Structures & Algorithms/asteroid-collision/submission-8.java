@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class Solution {
     private boolean willCollide(Stack<Integer> st, int current) {
         if (st.peek() > 0 && current < 0)

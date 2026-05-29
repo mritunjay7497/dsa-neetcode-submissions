@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class Solution {
     private int[] findNGEIdx(int[] arr) {
         int n = arr.length;

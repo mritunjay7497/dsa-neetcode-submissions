@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/asteroid-collision" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/baseball-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/buy-and-sell-crypto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/daily-temperatures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/duplicate-integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/evaluate-reverse-polish-notation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/is-anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/is-palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/merge-strings-alternately" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/minimum-stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/reverse-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/two-integer-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/valid-palindrome-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structures &amp; Algorithms/validate-parentheses" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
